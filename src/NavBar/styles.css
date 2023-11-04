@@ -1,0 +1,11 @@
+#header {
+    background: rgb(197, 33, 33);
+    color: #fff9f9;
+}
+#buscador {
+    background: #dcd4d4e1;
+    color: #040404;
+}
+#buscador::placeholder {
+    color: #040404;
+}
